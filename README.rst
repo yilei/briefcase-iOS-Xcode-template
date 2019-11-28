@@ -12,13 +12,13 @@ The master branch of this repository has no content; there is an
 independent branch for each supported version of Python. The following
 Python versions are supported:
 
-* `Python 3.5 <https://github.com/beeware/briefcase-ios-xcode-template/tree/3.5>`__
-* `Python 3.6 <https://github.com/beeware/briefcase-ios-xcode-template/tree/3.6>`__
-* `Python 3.7 <https://github.com/beeware/briefcase-ios-xcode-template/tree/3.7>`__
-* `Python 3.8 <https://github.com/beeware/briefcase-ios-xcode-template/tree/3.8>`__
+* `Python 3.5 <https://github.com/beeware/briefcase-iOS-Xcode-template/tree/3.5>`__
+* `Python 3.6 <https://github.com/beeware/briefcase-iOS-Xcode-template/tree/3.6>`__
+* `Python 3.7 <https://github.com/beeware/briefcase-iOS-Xcode-template/tree/3.7>`__
+* `Python 3.8 <https://github.com/beeware/briefcase-iOS-Xcode-template/tree/3.8>`__
 
 Suggestions for template changes should be made against the `dev branch
-<https://github.com/beeware/briefcase-iOS-xcode-template/tree/dev>`__; these will
+<https://github.com/beeware/briefcase-iOS-Xcode-template/tree/dev>`__; these will
 then be backported into the supported Python releases. The dev branch will
 track the most recent supported version of Python (currently, Python 3.8)
 
